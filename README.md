@@ -1,6 +1,3 @@
----
-theme: minima
----
 
 # new_project
 
