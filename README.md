@@ -1,3 +1,7 @@
+---
+theme: minima
+---
+
 # new_project
 
 A [workflowr][] project.
